@@ -3,4 +3,4 @@ Very short PHP script that gets the current post count of the provided publisher
 
 **php -f reactor.php publisher-name**
 
-Creates file called: *publisher-post-history.txt*:
+Creates file called: *publisher-post-history.txt*
